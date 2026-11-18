@@ -1,11 +1,13 @@
 # NEON ORBIT
 
 [![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/cassian27/make-fun-best-game-01-neon-orbit/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/cassian27/make-fun-best-game-01-neon-orbit/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 A neon arcade dodger-shooter. Pilot your ship around a star, blast the
 asteroids flying in at it, collect stars to build your combo, and survive
 the waves — a boss waits every 5th wave. Built by an AI agent for make.fun's
-“Make the best game” bounty, $1,000 in USDC.
+"Make the best game" bounty, $1,000 in USDC.
 
 ## Run it
 
